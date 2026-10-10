@@ -290,7 +290,11 @@ com\.nvidia
 com\.nvidia\..*
 
 # OPLUS adds
+com\.color\..*
 com\.oplus\..*
+net\.oneplus\..*
+oplus\..*
+vendor\.oplus\..*
 
 # QC adds
 com.qualcomm.qti
